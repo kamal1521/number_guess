@@ -1,0 +1,43 @@
+*
+{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-color: purple;
+}
+.container
+{
+    background-color: purple;
+    border:10px solid black;
+    text-align: center;
+    width:750px;
+    height:250px;
+    margin:auto;
+    margin-top:17%;
+}
+h1{
+    color:yellow;
+    font-style: bold;
+}
+h3{
+    color:orangered;
+}
+
+p{
+
+    color:red;
+}
+label{
+    color:pink;
+}
+#result{
+    height:25px;
+    width:fit-content;
+    background: black;
+    margin:auto;
+    margin-top: 25px;
+    color:aqua;
+    font-size: large;
+}
